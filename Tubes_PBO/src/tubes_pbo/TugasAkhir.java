@@ -9,7 +9,7 @@ package tubes_pbo;
  *
  * @author user
  */
-public class Tugas_akhir{
+public class TugasAkhir{
 	private int x =0; 
 	Dokumen ta = new Dokumen();
 	private int responsi;
